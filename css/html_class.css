@@ -1,0 +1,81 @@
+.navbar{
+	/*最小高  不要写固定高*/
+	min-height: 70px;
+}
+/*麦子学院*/
+/*.navbar-brand {
+    height: 70px;
+    padding: 15px 15px;
+    line-height: 40px;
+}*/
+.navbar-default .navbar-brand{
+	  color: #40D2B1;
+    font-size: 30px;
+    font-weight: bold;
+    height: 70px;
+    line-height: 40px;
+}
+
+/*导航*/
+.navbar-nav{
+	    font-weight: bold;
+    	font-size: 16px;
+}
+.navbar-nav > li > a{
+	line-height: 40px;
+}
+
+
+/*三道杠  按钮*/
+.navbar-default .navbar-toggle .icon-bar{
+	background: #0e896d;
+}
+.navbar-default .navbar-toggle:hover{
+	background: #40D2B1;
+}
+.navbar-default .navbar-toggle{
+	border-color: #40D2B1;
+}
+
+/*Home*/
+#home{
+	background: url(../img/home-bg.jpg) no-repeat;
+	margin-top: 70px;
+	background-size:cover ;
+	width: 100%;
+	text-align: center;
+	color: #fff;
+	
+}
+#home h1{
+	font-weight: bold;
+	margin-bottom: 25px;
+}
+#home p{
+	line-height: 30px;
+}
+.filter{
+	background: rgba(0,0,0,.7);
+	padding: 80px 0;
+	width: 100%;
+	height: 100%;
+}
+/*Home*/
+/*bds*/
+#bds{
+	padding: 80px 0;
+	text-align: center;
+}
+#bds img{
+	margin: 0 auto;
+}
+#bds .col-md-4{
+	border-radius: 5px;
+	padding-top: 30px;
+}
+#bds .col-md-4:hover{
+	background: #F5F5F5;
+	box-shadow: 2px 0  6px  #ccc;
+}
+
+/*bds*/

@@ -1,0 +1,44 @@
+.progress{
+	margin-bottom: 15px;
+}
+/*头像*/
+.wh64{
+	width: 64px;
+	height: 64px;
+	border-radius: 50%;
+}
+/*边距*/
+.m_top{
+	margin-top: 15px;
+}
+
+/*用户标题大小样式*/
+.page-header{
+	margin-top: 0px;
+}
+
+.page-header h1{
+	margin: 0px;
+	font-size: 16px;
+}
+#form{
+	padding: 10px;
+	border: 1px solid #ddd;
+	border-top: none;
+}
+.title_margin{
+	margin-top: 15px;
+}
+.taglist{
+	padding-top: 15px;
+	
+}
+.taglist .alert{
+	margin: 0px 15px 15px 0px;
+}
+.tag_padding{
+	padding: 0px;
+}
+#footer{
+	padding: 80px 0px;
+}
